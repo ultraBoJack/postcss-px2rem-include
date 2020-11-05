@@ -1,0 +1,24 @@
+{
+  "name": "postcss-px2rem-included",
+  "version": "0.0.1",
+  "description": "postcss-px2rem-include",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultraBoJack/postcss-px2rem-include.git"
+  },
+  "keywords": [
+    "postcss-px2rem",
+    "include"
+  ],
+  "author": "ultra_bojack",
+  "license": "MIT",
+  "homepage": "https://github.com/ultraBoJack/postcss-px2rem-include#readme",
+  "dependencies": {
+    "postcss": "^5.0.0",
+    "px2rem": "~0.5.0"
+  }
+}
